@@ -28,3 +28,5 @@
     </ul>
   </header>
 </template>
+
+export default defineComponent({ setup () { return { Header } } })
